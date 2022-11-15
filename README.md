@@ -1,14 +1,10 @@
-### Hi! I'm Peter Egbunuojo👋
-
-<!--
-**Jesticpeter/Jesticpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a simple CRUD application
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on any e-commerce project
-- 🤔 I’m looking for mentors who are good with solidity
-- 💬 Ask me about ...
-- 📫 How to reach me on Twitter via: @mizta_pita 
+- 👋 Hi! I'm Peter Egbunuojo
+- 👀 I'm a Full Stack Developer with special interest in Blochchain Tech.
+- 🌱 I’m current on a Journey to keep improving my skills through contact practice by producing small projects every week.
+- 👯 I'm open to collaboration with anyone anywhere in the world for any problem solving project, particularly in Fintech, e-Commerce, Health Care, Nation Building and Web 3.0 (Blockchain).
+- 📫 How to reach me:
+-  Twitter: @mizta_pita 
+-  Email: contact@miztapita.com
+-  Phone: +2348086360957
+-  Discord: MizaPita#3151
 -->
