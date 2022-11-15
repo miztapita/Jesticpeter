@@ -8,4 +8,4 @@
 -  Email: contact@miztapita.com
 -  Phone: +2348086360957
 -  Discord: MizaPita#3151
--  Web:https//miztapita.com
+-  Web: https//miztapita.com
