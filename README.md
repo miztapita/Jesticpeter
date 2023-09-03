@@ -1,11 +1,11 @@
 # About
 - 👋 Hi! I'm Peter Egbunu
-- 👀 I'm a full-stack developer interested in Blockchain technology.
+- 👀 I'm a full-stack developer and digital marketer interested in Blockchain technology.
 - 🌱 I’m on a Journey to keep improving my skills through constant practice.
-- 👯 I'm open to collaboration with anyone anywhere in the world for any problem-solving project, particularly in Fintech, e-Commerce, Health Care, Nation Building, and Web 3.0 (Blockchain).
+- 👯 I'm open to collaboration with anyone anywhere in the world to solve problems in Fintech, e-Commerce, Health Care, security, and Web 3.0 (Blockchain).
 -  ##### How to reach me:
 -  Twitter: @mizta_pita 
 -  Email: contact@miztapita.com
 -  Phone: +2348086360957
--  Discord: MizaPita#3151
+-  Discord: Miza_pita
 -  Web: https://miztapita.com
